@@ -1,7 +1,6 @@
 <?php
-
-class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
-{
+// 1
+class Bootstrap extends Zend_Application_Bootstrap_Bootstrap{
 
 
 }
